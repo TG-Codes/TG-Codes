@@ -1,10 +1,11 @@
 ### Hi there 👋
-PHP (Laravel, Codeigniter, Simps)
-Javascript ( React & Vue) 
-NodeJs (Express)
-Python (Flask)
-GIT, Docker, AWS
 As I learn, I do. As I do, I learn. 
+
+PHP (Laravel, Codeigniter, Simps)<br>
+Javascript ( React & Vue) <br>
+NodeJs (Express)<br>
+Python (Flask)<br>
+GIT, Docker, AWS
 
 <!--**TG-Codes/TG-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
