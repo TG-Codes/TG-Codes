@@ -1,12 +1,12 @@
 ### Hi there 👋
-As I learn, I do. As I do, I learn. 
 
 PHP (Laravel, Codeigniter, Simps)<br>
 Javascript ( React & Vue) <br>
 NodeJs (Express)<br>
 Python (Flask)<br>
 Dart (Flutter) <br>
-GIT, Docker, AWS
+GIT, Docker, AWS<br><br>
+As I learn, I do. As I do, I learn. 
 
 <!--**TG-Codes/TG-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
